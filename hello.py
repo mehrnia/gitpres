@@ -1,3 +1,3 @@
 name = 'Nick'
 
-print('Hello, ' + name)
+print('Hello wold, ' + name)
